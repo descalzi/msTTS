@@ -3,7 +3,7 @@ setup(
   name = 'msTTS',
   packages = ['msTTS'], # this must be the same as the name above
   version = '0.1',
-  description = 'A random test lib',
+  description = 'Generate audio files from text (TTS) using Microsoft Cognitive Services Speech API',
   author = 'Martin Descalzi ',
   author_email = 'martin.descalzi@gmail.com',
   url = 'https://github.com/descalzi/msTTS', # use the URL to the github repo
